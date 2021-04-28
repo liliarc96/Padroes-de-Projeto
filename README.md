@@ -9,7 +9,7 @@
 >https://refactoring.guru/pt-br/design-patterns/adapter/java/example
 
 #### Strategy  
-https://refactoring.guru/pt-br/design-patterns/strategy/java/example
+>https://refactoring.guru/pt-br/design-patterns/strategy/java/example
 
 ## Não usar esses:  
 ##### Factory Method (https://www.youtube.com/watch?v=KouxYcDA2HA)  
